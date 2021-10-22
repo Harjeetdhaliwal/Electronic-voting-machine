@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="iconifiable" type="boolean" value="true"/>
+    <Property name="maximizable" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="true"/>
+    <Property name="title" type="java.lang.String" value="INSTRUCTIONS FOR DUTY OFFICERS"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane2" alignment="0" pref="745" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane2" alignment="0" pref="481" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Monospaced" size="14" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value=" &#xa;1. Voting procedure in polling station and duties of Polling Officers &#xa; &#xa;It is important that for efficient and smooth conduct of poll at your polling station, &#xa;you should be thoroughly conversant with the procedure that is to be followed &#xa;from the time an elector comes into the polling station and till he leaves it after &#xa;casting his vote. Such voting procedure and the duties which each Polling Officer &#xa;has to perform are explained in detail in subsequent chapters. However, a broad &#xa;distribution of duties among the Polling Officers is indicated below. &#xa; &#xa;2. Duties of Polling Officers at single election to the House of the &#xa;People/Legislative Assembly when polling party consists of one &#xa;Presiding Officer and three Polling Officers. &#xa; &#xa;2.1 First Polling Officer &#xa; &#xa;The first Polling Officer will be in charge of the marked copy of electoral roll &#xa;and responsible for identification of electors. On entering the Polling Station, the &#xa;elector will proceed direct to the first Polling Officer. That Polling Officer will &#xa;satisfy himself about the identity of the elector by following the procedure &#xa;prescribed under chapter XVIII. &#xa; &#xa;3.1 Second Polling Officer &#xa; &#xa;The second Polling Officer will be in charge of indelible ink. After the elector has &#xa;been identified by the first Polling Officer, the second Polling Officer will inspect &#xa;the elector&apos;s left hand forefinger to see that it does not bear any sign or trace of &#xa;indelible ink and then put a mark with the indelible ink on the voter&apos;s left &#xa;hand forefinger. The indelible ink will be applied on voter&apos;s left hand forefinger &#xa;as a line from the top end of the nail to the bottom of the first joint of the left &#xa;forefinger &#xa;&#xa;3.2 The second Polling Officer will also be in-charge of the register of voters in &#xa;Form 17A. He will be responsible for maintaining in that register the proper &#xa;account of electors whose identity has been established and who vote at the &#xa;polling station. He will obtain the signature or thumb impression of each elector "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

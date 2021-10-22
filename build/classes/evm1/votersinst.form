@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="iconifiable" type="boolean" value="true"/>
+    <Property name="maximizable" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="true"/>
+    <Property name="title" type="java.lang.String" value="INSTRUCTIONS FOR VOTERS"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="646" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="518" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Monospaced" size="14" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value=" What is the process of voting? How do you go about it? &#xa;1 The poll date and hours are fixed by the Election Commission India &#xa;and they are well publicized before all elections. &#xa;2 When you reach the polling station, entry will be regulated by queues. &#xa;There will be separate queues for men and women voters and the physically &#xa;handicapped persons. The persons who enforce the queues will allow 3-4 &#xa;voters into the polling station at a time. Physically handicapped voters and &#xa;women voters with babies in arm will be given precedence over the other &#xa;voters in the queue. &#xa;3 Stage 1: When you enter the polling station, you will go to the First &#xa;Polling Officer who is in-charge of the marked copy of the electoral roll and &#xa;responsible for identification of electors. You should keep your identity &#xa;document ready to show to the First Polling Officer. You can also show to him &#xa;the unofficial identity slip giving your particulars. However, you should note &#xa;that unofficial identity slip only helps in locating your name in the electoral roll &#xa;but is not a guarantee of your identification. The First Polling Officer will then &#xa;call out your name and serial number so that the polling agents become &#xa;aware of your presence and your identity is not challenged.  6&#xa;4 Stage 2: Thereafter, if your identity is not challenged, you will &#xa;proceed to the Second Polling Officer who will mark your left forefinger with &#xa;the indelible ink. Thereafter, he will proceed to record your serial number in &#xa;the electoral roll in the Register of Voters. Once this is recorded, you are to &#xa;sign in the appropriate column in the Register of Voters. If a voter cannot sign, &#xa;his/her thumb impression will be obtained. The Second Polling Officer will &#xa;then give you a signed voter&#x2019;s slip which will record your serial number in the &#xa;register of voters and your serial number in the electoral roll. &#xa;5 Stage 3: You will then proceed to the Third Polling Officer who will &#xa;take the voter&#x2019;s slip issued to you by the Second Polling Officer. The Third &#xa;Polling Officer will press the &quot;Ballot&quot; button on the Control Unit of voting &#xa;machine and direct you to the voting compartment where you will record your &#xa;vote on the balloting unit of the voting machine. Please note that each voter &#xa;will proceed to the voting compartment in exactly the same sequence in which &#xa;his/her serial number is recorded in the voters&#x2019; register. &#xa;6 Stage 4: Voting Procedure. &#xa;&#x2022; Inside the voting compartment, you are to press the blue candidate button &#xa;on the Balloting Unit against the name and symbol of the candidate of your &#xa;choice. &#xa;&#x2022; Press the button only once. &#xa;&#x2022; On the candidate button being pressed, the red lamp will glow against the &#xa;name and symbol of that candidate. &#xa;&#x2022; There will also be a beep sound heard to indicate that your vote has been &#xa;recorded and the Busy lamp goes off in the Control Unit. &#xa;&#x2022; This process is repeated for other voters till end of the poll. &#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
