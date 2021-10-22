@@ -6,7 +6,7 @@ Enter voter id
 
 !["Search and Verify voter's info"](https://github.com/Harjeetdhaliwal/Electronic-voting-machine/blob/master/docs/voteid.png)
 
-Select the part to vote for
+Select the party to vote for
 
 !["All parties buttons page"](https://github.com/Harjeetdhaliwal/Electronic-voting-machine/blob/master/docs/parties.png)
 
